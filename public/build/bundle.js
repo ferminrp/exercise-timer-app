@@ -1255,7 +1255,7 @@ var app = (function () {
     		c: function create() {
     			main = element("main");
     			if_block.c();
-    			attr_dev(main, "class", main_class_value = "" + (null_to_empty(/*mode*/ ctx[2]) + " svelte-1njuigc"));
+    			attr_dev(main, "class", main_class_value = "" + (null_to_empty(/*mode*/ ctx[2]) + " svelte-3qnuv3"));
     			add_location(main, file, 100, 0, 3001);
     		},
     		l: function claim(nodes) {
@@ -1293,7 +1293,7 @@ var app = (function () {
     				if_block.m(main, null);
     			}
 
-    			if (!current || dirty & /*mode*/ 4 && main_class_value !== (main_class_value = "" + (null_to_empty(/*mode*/ ctx[2]) + " svelte-1njuigc"))) {
+    			if (!current || dirty & /*mode*/ 4 && main_class_value !== (main_class_value = "" + (null_to_empty(/*mode*/ ctx[2]) + " svelte-3qnuv3"))) {
     				attr_dev(main, "class", main_class_value);
     			}
     		},
